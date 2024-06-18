@@ -16,6 +16,8 @@ I am passionate about using data to drive informed decisions and am eager to app
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 # Tables of Contents (still updating)
+I'm still writing this part. More contents and descriptions will be added soon. Thank you :)
+
 **SQL**
 1. Korean e-commerce website (fashion) - working on it
 2. HR data - working on it
