@@ -13,4 +13,23 @@ In this portfolio, you will find examples of my work, including detailed analyse
 
 I am passionate about using data to drive informed decisions and am eager to apply my skills to innovative projects that make a meaningful impact. Thank you for visiting my portfolio, and I look forward to the opportunity to collaborate and contribute to exciting data-driven initiatives.
 
+This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+
 # Tables of Contents (still updating)
+**SQL**
+1. Korean e-commerce website (fashion) - working on it
+2. HR data - working on it
+
+**Python**
+1. Game of Thrones Battles data analysis & Visualization
+2. Data Analysis on Netflix & Disney Plus data
+3. A/B Testing
+
+**Data Visualization**
+1. Tableau_Dashboard about Client's industry
+2. Tableau_Real estate company analysis
+3. R_Wordcloud from my poster thesis (upcoming)
+4. SAS_Community Health Survey Report of Korea, which I was participated (upcoming)
+
+**Company Analysis**
+1. Google Analytics 4_Kitchen Appliance company analysis
