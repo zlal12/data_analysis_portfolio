@@ -18,14 +18,19 @@ This repository serves to showcase my skills and as a platform to share my proje
 # Tables of Contents (still updating)
 I'm still writing this part. More contents and descriptions will be added soon. Thank you :)
 
+
 **SQL**
 1. Korean e-commerce website (fashion) - working on it
 2. HR data - working on it
+
+
 
 **Python**
 1. Game of Thrones Battles data analysis & Visualization
 2. Data Analysis on Netflix & Disney Plus data
 3. A/B Testing
+
+
 
 **Data Visualization**
 1. Tableau_Dashboard about Client's industry
@@ -39,5 +44,19 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 
    Our lab is in charge of the north part of Seoul, and we work on the comprehensive statistics of the Seoul together with two other universities in charge of Seoul.
 
+
+
 **Company Analysis**
 1. Google Analytics 4_Kitchen Appliance company analysis
+
+   **Presentation**: [slides.pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/Company%20Analysis/GA4_Kitchen%20appliance%20company%20analysis.pdf)
+
+   This work is part of student project that we do with the client, which is real company.
+
+   Our client recently expand the market outside Sweden and want to know more about it.
+
+   They give access to GA4 of their company data, and we look into it to find interesting.
+
+   I focus on Nordic market which was biggest and compare Norway and Denmark which has similar user size but 6 times difference in revenue.
+
+   We find out the different traffic acquisition patterns.
