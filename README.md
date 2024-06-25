@@ -16,6 +16,7 @@ I am passionate about using data to drive informed decisions and am eager to app
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 My CV in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/CV_Yunjeong%20Chang_updated%2025.04.24.pdf)
+
 My LinkedIn [link](www.linkedin.com/in/yunjeong-chang-a1ab69242)
 
 # Tables of Contents (still updating)
