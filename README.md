@@ -21,20 +21,23 @@ My CV in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/CV_Yu
 I'm still writing this part. More contents and descriptions will be added soon. Thank you :)
 
 
-**SQL**
+
+# **SQL**
 1. Korean e-commerce website (fashion) - working on it
 2. HR data - working on it
 
 
 
-**Python**
+
+# **Python**
 1. Game of Thrones Battles data analysis & Visualization
 2. Data Analysis on Netflix & Disney Plus data
 3. A/B Testing
 
 
 
-**Data Visualization**
+
+# **Data Visualization**
 1. Tableau_Dashboard about Client's industry
 2. Tableau_Real estate company analysis
 3. R_Wordcloud from my poster thesis (upcoming)
@@ -48,7 +51,8 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 
 
 
-**Company Analysis**
+
+# **Company Analysis**
 1. Google Analytics 4_Kitchen Appliance company analysis
 
    **Presentation**: [slides.pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/Company%20Analysis/GA4_Kitchen%20appliance%20company%20analysis.pdf)
