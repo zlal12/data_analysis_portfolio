@@ -32,8 +32,11 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 2. Tableau_Real estate company analysis
 3. R_Wordcloud from my poster thesis (upcoming)
 4. SAS_Community Health Survey Report of Korea (2021)
+   
    Link: https://chs.kdca.go.kr/chs/recsRoom/healthStatsMain.do
+
    It's under Korean government website, and it's only provided in Korean (really sorry for that).
+
    Our lab is in charge of the north part of Seoul, and we work on the comprehensive statistics of the Seoul together with two other universities in charge of Seoul.
 
 **Company Analysis**
