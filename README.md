@@ -35,6 +35,13 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 1. Game of Thrones Battles data analysis & Visualization
 2. Data Analysis on Netflix & Disney Plus data
 3. A/B Testing
+4. ML_What's your color? Personal Color Detector (Working on it)
+
+   I'm working on this as final project for school.
+
+   I'm trying to apply my new knowledge in Machine learning & Deep learning with my current knowledge on data analysis.
+
+   I will create personal color detector and gonna find some data related with personal color to present it together :)
 
 
 
