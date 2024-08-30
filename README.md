@@ -7,9 +7,9 @@ I hold a Master’s Degree in Child Development and Family Studies from KyungHee
 
 In my role as a Lead Researcher at KyungHee University’s Preventative Medicine Lab, I led a team of 32 field researchers for the National Health Survey. I managed the entire research process, from recruiting field researchers to analyzing data with SAS and presenting findings through data visualizations. This experience refined my analytical skills and my ability to communicate complex data insights effectively.
 
-My work experience with CrowdWorks and Activefence allowed me to collaborate with major game company and contribute to building a comprehensive Korean database. These roles required meticulous attention to detail and the ability to adapt to diverse datasets and remote work environments.
+My work experience with CrowdWorks and Activefence allowed me to collaborate with major game company and contribute to building a comprehensive database. These roles required meticulous attention to detail and the ability to adapt to diverse datasets and remote work environments.
 
-In this portfolio, you will find examples of my work, including detailed analyses, data visualizations, and project reports. Each piece showcases my proficiency in SQL, Python, SAS, R, and Tableau, as well as my ability to apply statistical methods to real-world problems.
+In this portfolio, you will find examples of my work, including detailed analysis, data visualizations, and project reports. Each piece showcases my proficiency in SQL, Python, SAS, R, and Tableau, as well as my ability to apply statistical methods to real-world problems.
 
 I am passionate about using data to drive informed decisions and am eager to apply my skills to innovative projects that make a meaningful impact. Thank you for visiting my portfolio, and I look forward to the opportunity to collaborate and contribute to exciting data-driven initiatives.
 
