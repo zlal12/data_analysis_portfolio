@@ -41,9 +41,11 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 
    I'm trying to apply my new knowledge in Machine learning & Deep learning with my current knowledge on data analysis.
 
+   Since some images and charts are broken in the file, I attached the link of Jupyter Notebook.
+
    It will have three parts.
-   1) Exploratory Data Analysis of H&M data
-   2) Personal Color Detector
+   1) Exploratory Data Analysis of H&M data [link] (https://colab.research.google.com/drive/1RlEO1Do8FZSnHjywVqcapmLK7sBFX2Sd?usp=sharing)
+   2) Personal Color Detector [link] (https://colab.research.google.com/drive/1gOAYB86qhNYZgsN9r8LTIJdpU2HU3ej3?usp=sharing)
    3) Item Recommedation Model
 
 
