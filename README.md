@@ -35,16 +35,16 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 1. Game of Thrones Battles data analysis & Visualization
 2. Data Analysis on Netflix & Disney Plus data
 3. A/B Testing
-4. EDA+ML_What's your next items? Item Recommendation Program with Personal Color Detector (Working on it)
+4. EDA+ML_What's your next items? H&M Item Recommendation Program with Personal Color Detector (Working on it)
 
    I'm working on this as final project for Hyper Island.
 
    I'm trying to apply my new knowledge in Machine learning & Deep learning with my current knowledge on data analysis.
 
    It will have three parts.
-   1) Exploratory Data Analysis
+   1) Exploratory Data Analysis of H&M data
    2) Personal Color Detector
-   3) Item Recommedation Program
+   3) Item Recommedation Model
 
 
 
