@@ -46,7 +46,7 @@ I'm still writing this part. More contents and descriptions will be added soon. 
    It will have three parts.
    1) Exploratory Data Analysis of H&M data [link](https://colab.research.google.com/drive/1RlEO1Do8FZSnHjywVqcapmLK7sBFX2Sd?usp=sharing)
    2) Personal Color Detector [link](https://colab.research.google.com/drive/1gOAYB86qhNYZgsN9r8LTIJdpU2HU3ej3?usp=sharing)
-   3) Item Recommedation Model
+   3) Item Recommedation Model [link](https://colab.research.google.com/drive/1sKKyx-RcMOm65bw85VlpU8X9icn40kvv?usp=sharing)
 
 
 
