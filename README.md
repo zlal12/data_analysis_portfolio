@@ -1,19 +1,17 @@
 # Yunjeong Chang - Data Analysis portfolio
 
 # **About**
-Welcome to my portfolio! My name is Yunjeong Chang, and I am a dedicated data analyst with a strong background in statistics, research, and data-driven decision-making. Currently, I am advancing my skills through a Data Analyst diploma program at Hyper Island in Stockholm, Sweden.
+Welcome to my portfolio! I'm Yunjeong Chang, a passionate data analyst with a strong background in statistics, research, and data-driven decision-making. I am currently pursuing a Data Analyst diploma at Hyper Island in Stockholm, Sweden, where I am further learning my analytical and technical skills.
 
-I hold a Master’s Degree in Child Development and Family Studies from KyungHee University and a Bachelor’s Degree in Psychology from SungShin Women’s University. My academic journey has provided me with a comprehensive understanding of data analysis, which I have further honed through various professional experiences and projects.
+I hold a Master’s Degree in Child Development and Family Studies from KyungHee University and a Bachelor’s Degree in Psychology from SungShin Women’s University. My academic background, coupled with hands-on project experience, has equipped me with a deep understanding of data analysis, which I’ve further developed through various professional roles.
 
-In my role as a Lead Researcher at KyungHee University’s Preventative Medicine Lab, I led a team of 32 field researchers for the National Health Survey. I managed the entire research process, from recruiting field researchers to analyzing data with SAS and presenting findings through data visualizations. This experience refined my analytical skills and my ability to communicate complex data insights effectively.
+During my time as a Lead Researcher at KyungHee University’s Preventative Medicine Lab, I successfully led a team of 32 field researchers for the National Health Survey. I managed the entire research process—from recruitment to data analysis—utilizing tools like SAS and Excel to ensure accuracy. This role sharpened my ability to interpret complex datasets and present insights through clear and impactful data visualizations.
 
-My work experience with CrowdWorks and Activefence allowed me to collaborate with major game company and contribute to building a comprehensive database. These roles required meticulous attention to detail and the ability to adapt to diverse datasets and remote work environments.
+Additionally, my work with CrowdWorks and ActiveFence allowed me to collaborate with major companies like Naver Zepeto. I managed teams of freelancers, optimized workflows, and significantly improved project outcomes. These experiences helped me master the nuances of remote work and adapt quickly to diverse datasets.
 
-In this portfolio, you will find examples of my work, including detailed analysis, data visualizations, and project reports. Each piece showcases my proficiency in SQL, Python, SAS, R, and Tableau, as well as my ability to apply statistical methods to real-world problems.
+In this portfolio, you’ll find examples of my work, including data visualizations, project reports, and detailed analysis that demonstrate my proficiency in SQL, Python, SAS, R, and Tableau. Each project reflects my ability to apply statistical methods to real-world problems.
 
-I am passionate about using data to drive informed decisions and am eager to apply my skills to innovative projects that make a meaningful impact. Thank you for visiting my portfolio, and I look forward to the opportunity to collaborate and contribute to exciting data-driven initiatives.
-
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+I’m passionate about using data to drive meaningful, informed decisions and am always eager to contribute to innovative, data-driven initiatives. Thank you for visiting my portfolio — I look forward to exploring new opportunities and collaborating on impactful projects.
 
 My CV in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/CV_YJ%20Chang.pdf)
 
