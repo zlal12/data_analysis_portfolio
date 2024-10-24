@@ -15,6 +15,8 @@ I’m passionate about using data to drive meaningful, informed decisions and am
 
 My CV in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/CV_YJ%20Chang.pdf)
 
+My RESUME in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/Resume_YJ%20Chang.pdf)
+
 My LinkedIn [link](www.linkedin.com/in/yunjeong-chang-a1ab69242)
 
 # Tables of Contents (still updating)
@@ -23,7 +25,7 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 
 
 # **SQL**
-1. Korean e-commerce website (fashion) - working on it
+1. SQL Analysis of Korean e-commerce website (fashion)
 2. HR data - working on it
 
 
