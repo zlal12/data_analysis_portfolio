@@ -36,6 +36,7 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 2. Data Analysis on Netflix & Disney Plus data
 3. A/B Testing
 4. EDA+ML_What's your next items? H&M Item Recommendation Program with Personal Color
+
    Presentation: [link](https://docs.google.com/presentation/d/1aT1HEuJmnefKh2KuFNA7UVlg_IzfSgXKqG_MgsSCa5k/edit?usp=sharing)
 
    It's my final project for Hyper Island.
