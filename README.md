@@ -1,17 +1,54 @@
 # Yunjeong Chang - Data Analysis portfolio
 
-# **About**
-Welcome to my portfolio! I'm Yunjeong Chang, a passionate data analyst with a strong background in statistics, research, and data-driven decision-making. I am currently pursuing a Data Analyst diploma at Hyper Island in Stockholm, Sweden, where I am further learning my analytical and technical skills.
+# **About Me**
+Welcome to my portfolio! I'm Yunjeong Chang, a data analyst with a passion for uncovering actionable insights through data. My journey into analytics blends academic rigor with hands-on experience, giving me a strong foundation in data-driven decision-making and technical expertise.
 
-I hold a Master’s Degree in Child Development and Family Studies from KyungHee University and a Bachelor’s Degree in Psychology from SungShin Women’s University. My academic background, coupled with hands-on project experience, has equipped me with a deep understanding of data analysis, which I’ve further developed through various professional roles.
 
-During my time as a Lead Researcher at KyungHee University’s Preventative Medicine Lab, I successfully led a team of 32 field researchers for the National Health Survey. I managed the entire research process—from recruitment to data analysis—utilizing tools like SAS and Excel to ensure accuracy. This role sharpened my ability to interpret complex datasets and present insights through clear and impactful data visualizations.
 
-Additionally, my work with CrowdWorks and ActiveFence allowed me to collaborate with major companies like Naver Zepeto. I managed teams of freelancers, optimized workflows, and significantly improved project outcomes. These experiences helped me master the nuances of remote work and adapt quickly to diverse datasets.
+**Education**
+- Data Analyst Diploma, Hyper Island, Stockholm, Sweden
+- Focusing on advanced analytical techniques and technical skills.
+- Master’s Degree in Child Development and Family Studies, KyungHee University
+- Bachelor’s Degree in Psychology, SungShin Women’s University
 
-In this portfolio, you’ll find examples of my work, including data visualizations, project reports, and detailed analysis that demonstrate my proficiency in SQL, Python, SAS, R, and Tableau. Each project reflects my ability to apply statistical methods to real-world problems.
 
-I’m passionate about using data to drive meaningful, informed decisions and am always eager to contribute to innovative, data-driven initiatives. Thank you for visiting my portfolio — I look forward to exploring new opportunities and collaborating on impactful projects.
+
+**Professional Experience**
+
+- Lead Researcher, Preventative Medicine Lab, KyungHee University
+
+   Led a team of 32 field researchers for the National Health Survey.
+   Managed the end-to-end research process, including recruitment, data cleaning, and analysis using SAS and Excel.
+   Delivered insights through impactful data visualizations and reports.
+
+- Assistant Project Manager, CrowdWorks
+
+  Collaborated with companies like Naver Zepeto.
+  Supervised freelance teams, optimized workflows, and improved outcomes.
+
+- Freelance data Analyst, Activefence
+  
+  Mainly working on Korean database for AI Training data.
+  Specialized in remote work management and adapting to diverse datasets.
+  
+
+
+**Technical Skills**
+
+Programming: Python, SQL, R, SAS
+
+Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+
+Machine Learning: Scikit-learn, TensorFlow (beginner)
+
+Other Tools: Microsoft Office, Google Analytics
+
+
+
+# **About This Portfolio**
+This portfolio showcases my projects, which range from SQL and Python-based data analysis to data visualization and machine learning initiatives. Each project reflects my ability to tackle real-world problems through exploratory data analysis, hypothesis testing, and actionable recommendations.
+
+I’m passionate about turning data into stories that drive innovation and progress. Thank you for exploring my portfolio—I look forward to connecting and collaborating!
 
 My CV in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/CV_YJ%20Chang.pdf)
 
@@ -19,14 +56,17 @@ My RESUME in [pdf](https://github.com/zlal12/data_analysis_portfolio/blob/main/R
 
 My LinkedIn [link](www.linkedin.com/in/yunjeong-chang-a1ab69242)
 
-# Tables of Contents (still updating)
-I'm still writing this part. More contents and descriptions will be added soon. Thank you :)
+
+
+
+# Tables of Contents
+(More projects and descriptions will be added soon—stay tuned!)
 
 
 
 # **SQL**
 1. SQL Analysis of Korean e-commerce website (fashion)
-2. HR data - working on it
+2. EDA of Amazon Sales Data - working on it
 
 
 
@@ -41,7 +81,7 @@ I'm still writing this part. More contents and descriptions will be added soon. 
 
    It's my final project for Hyper Island.
 
-   I'm tried to apply my new knowledge in Machine learning & Deep learning with my current knowledge on data analysis.
+   I tried to apply my new knowledge in Machine learning & Deep learning with my current knowledge on data analysis.
 
    Since some images and charts are broken in the file, I attached the link of Jupyter Notebook.
 
