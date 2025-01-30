@@ -35,13 +35,13 @@ Welcome to my portfolio! I'm Yunjeong Chang, a data analyst with a passion for u
 
 **Technical Skills**
 
-Programming: Python, SQL, R, SAS
+- Programming: Python, SQL, R, SAS
 
-Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
 
-Machine Learning: Scikit-learn, TensorFlow (beginner)
+- Machine Learning: Scikit-learn, TensorFlow (beginner)
 
-Other Tools: Microsoft Office, Google Analytics
+- Other Tools: Microsoft Office, Google Analytics, AppsFlyer, Mixpanel
 
 
 
