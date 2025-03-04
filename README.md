@@ -43,7 +43,7 @@ I’m passionate about turning data into stories that drive innovation and progr
 
 1. [SQL Projects](https://github.com/zlal12/data_analysis_portfolio/tree/main/SQL_updating)
 - E-commerce Sales Analysis
-- Amazon Sales Data (EDA) -- Coming soon!
+- Amazon Sales Data (EDA)
 
 2. [Python Projects](https://github.com/zlal12/data_analysis_portfolio/tree/main/Python)
 - Game of Thrones Data Analysis
