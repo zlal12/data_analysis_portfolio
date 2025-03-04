@@ -1,8 +1,17 @@
+It's hard for me choose the right project to show my SQL skills. 
+
+(Maybe as a beginner, SQL looks less cool in result, so I kept choosing other tools to do projects)
+
+But I try my best to show what I can do with and hope you enjoy it :)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 1. E-commerce Sales Analysis
    
 Conducted an SQL-based analysis of sales and customer behavior patterns for a Korean e-commerce website.
 
-3. Amazon Sales Data (EDA) 
+2. Amazon Sales Data (EDA) 
    
 Exploring sales trends and customer segmentation in Amazon's dataset. This SQL analysis project leverages advanced SQL techniques to extract actionable insights from an Amazon product dataset.
 
