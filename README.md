@@ -32,7 +32,7 @@ I’m passionate about turning data into stories that drive innovation and progr
 
    - **Tools**: Microsoft Office, Google Analytics, AppsFlyer, Mixpanel
 
-   - **Specializations**: A/B Testing, Data Cleaning, Machine Learning (Beginner)
+   - **Specializations**: A/B Testing, Data Cleaning, Machine Learning (Beginner), Data Engineering (Beginner)
 
 
 
